@@ -1,4 +1,4 @@
-# README: Bit Stream Cipher Program
+# Bit Stream Cipher Program
 
 ---
 
